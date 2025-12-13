@@ -73,10 +73,8 @@ def calculate_score(is_correct: bool, score: list) -> list:
     return score
 
 
-with open("./data/data2.json", "r") as f:
+with open("./data/data_perso.json", "r") as f:
     data = json.load(f)
-
-# pprint.pprint(data)
 
 score = [0, 0]
 while True:
