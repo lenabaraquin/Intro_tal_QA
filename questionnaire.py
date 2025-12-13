@@ -102,7 +102,7 @@ def generate_correction_to_print(
         user_answer_ids_set, correct_answer_ids_set
     )
     if is_user_correct:
-        to_print += "\tCorrect"
+        to_print += "\n\tCorrect"
     else:
         to_print += "\n\tNon correct\n\tLes réponses correctes sont :\n\t"
         for correct_id in correct_answer_ids_set:
@@ -148,4 +148,8 @@ if __name__ == "__main__":
         print_question(question_dict)
         user_answer_ids_set = get_user_answer_ids_set()
         correct_answer_ids_set = get_correct_answer_ids_set(question_dict)
+        is_correct = compare_user_correct_answers(
+            user_answer_ids_set, correct_answer_ids_set
+        )
         print_correction(user_answer_ids_set, correct_answer_ids_set)
+        score = calculate_score(is_correct, score)

@@ -1,43 +1,90 @@
 [
   {
-    "question": "Première question",
-    "theme": "Histoire",
+    "question": "Qu'est-ce qu'un oscillogramme ?",
+    "theme": "Traitements linguistiques",
     "answers": [
       {
         "answer_id": "1",
-        "answer_text": "réponse a",
+        "answer_text": "La représentation des variations de fréquence au cours du temps.",
         "answer_is_correct": "False"
       },
       {
         "answer_id": "2",
-        "answer_text": "réponse a",
+        "answer_text": "La représentation des variations d'intensité au cours du temps.",
         "answer_is_correct": "True"
       },
       {
         "answer_id": "3",
-        "answer_text": "réponse a",
+        "answer_text": "La représentation des variations de l'onde accoustique au cours du temps.",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "La même chose qu'un spectrogramme.",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Dans un spectrogramme, comment lit-on la fréquence ?",
+    "theme": "Traitements linguistiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Sur l'axe des abscisses ?",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Sur l'axe des ordonnées ?",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Selon l'intensité du pixel (sa couleur) ?",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Dans un spectrogramme, comment lit-on l'intensité ?",
+    "theme": "Traitements linguistiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Sur l'axe des abscisses ?",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Sur l'axe des ordonnées ? ",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Selon l'intensité du pixel (sa couleur) ?",
         "answer_is_correct": "True"
       }
     ]
   },
   {
-    "question": "Deuxième question",
-    "theme": "Evaluation",
+    "question": "Sur un spectrogramme, à quoi correspond l'axe des abscisses ?",
+    "theme": "Traitements linguistiques",
     "answers": [
       {
         "answer_id": "1",
-        "answer_text": "réponse a",
+        "answer_text": "À la représentation des fréquences ?",
         "answer_is_correct": "False"
       },
       {
         "answer_id": "2",
-        "answer_text": "réponse a",
+        "answer_text": "À la représentation du temps ?",
         "answer_is_correct": "True"
       },
       {
         "answer_id": "3",
-        "answer_text": "réponse a",
-        "answer_is_correct": "True"
+        "answer_text": "À la représentation de l'intensité ?",
+        "answer_is_correct": "False"
       }
     ]
   }
