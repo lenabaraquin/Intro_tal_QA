@@ -35,5 +35,21 @@
         "answer_is_correct": "True"
       }
     ]
+  },
+  {
+    "question": "encore une question ",
+    "theme": "Histoire du TAL",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "r",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "w",
+        "answer_is_correct": "False"
+      }
+    ]
   }
 ]

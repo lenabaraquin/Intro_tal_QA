@@ -1,0 +1,7 @@
+[project]
+name = "intro-tal-qa"
+version = "0.1.0"
+description = "Un éditeur et un questionnaire de type QCM interactif."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
