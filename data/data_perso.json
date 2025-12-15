@@ -1,204 +1,261 @@
 [
   {
-    "question": "Quelle période correspond à la phase d’enthousiasme initial en traduction automatique ?",
-    "theme": "Histoire du TAL",
+    "question": "Quels sont les cinq niveaux classiques de traitement linguistique présentés dans le cours ?",
+    "theme": "Traitements linguistiques",
     "answers": [
       {
         "answer_id": "1",
-        "answer_text": "1930 - 1945",
+        "answer_text": "Lexical, syntaxique, logique, discursif, social",
         "answer_is_correct": "False"
       },
       {
         "answer_id": "2",
-        "answer_text": "1946 - 1966",
+        "answer_text": "Phonétique/phonologique, morpho-lexical, syntaxique, sémantique, pragmatique",
         "answer_is_correct": "True"
       },
       {
         "answer_id": "3",
-        "answer_text": "1966 - 1975",
+        "answer_text": "Acoustique, graphique, lexical, syntaxique, sémantique",
         "answer_is_correct": "False"
       },
       {
         "answer_id": "4",
-        "answer_text": "1980 - 1990",
+        "answer_text": "Phonologique, syntaxique, discursif, cognitif, pragmatique",
         "answer_is_correct": "False"
       }
     ]
   },
   {
-    "question": "Qui est le premier chercheur à consacrer ses recherches à la traduction automatique ?",
-    "theme": "Histoire du TAL",
+    "question": "La phonétique acoustique étudie principalement :",
+    "theme": "Traitements linguistiques",
     "answers": [
       {
         "answer_id": "1",
-        "answer_text": "Alan Turing",
+        "answer_text": "La position des organes de la parole",
         "answer_is_correct": "False"
       },
       {
         "answer_id": "2",
-        "answer_text": "Noam Chomsky",
-        "answer_is_correct": "False"
-      },
-      {
-        "answer_id": "3",
-        "answer_text": "Yehoshua Bar-Hillel",
+        "answer_text": "Les propriétés physiques du signal sonore",
         "answer_is_correct": "True"
       },
       {
+        "answer_id": "3",
+        "answer_text": "Le sens des mots",
+        "answer_is_correct": "False"
+      },
+      {
         "answer_id": "4",
-        "answer_text": "Claude Shannon",
+        "answer_text": "La structure grammaticale",
         "answer_is_correct": "False"
       }
     ]
   },
   {
-    "question": "La première expérience de traduction automatique (1954) reposait sur :",
-    "theme": "Histoire du TAL",
+    "question": "La phonétique articulatoire s’intéresse :",
+    "theme": "Traitements linguistiques",
     "answers": [
       {
         "answer_id": "1",
-        "answer_text": "Des réseaux de neuronnes",
-        "answer_is_correct": "False"
+        "answer_text": "à la configuration des organes de la parole",
+        "answer_is_correct": "True"
       },
       {
         "answer_id": "2",
-        "answer_text": "Une analyse sémantique profonde",
+        "answer_text": "aux ondes sonores",
         "answer_is_correct": "False"
       },
       {
         "answer_id": "3",
-        "answer_text": "Une grammaire",
-        "answer_is_correct": "True"
+        "answer_text": "aux règles syntaxiques",
+        "answer_is_correct": "False"
       },
       {
         "answer_id": "4",
-        "answer_text": "Un apprentissage automatique",
+        "answer_text": "aux relations de sens entre les mots",
         "answer_is_correct": "False"
       }
     ]
   },
   {
-    "question": "Quelle institution française a été créée en 1959 pour la traduction automatique ?",
-    "theme": "Histoire du TAL",
+    "question": "En phonologie, une paire minimale sert à :",
+    "theme": "Traitements linguistiques",
     "answers": [
       {
         "answer_id": "1",
-        "answer_text": "Le MIT",
+        "answer_text": "Définir des synonymes",
         "answer_is_correct": "False"
       },
       {
         "answer_id": "2",
-        "answer_text": "L'INRIA",
-        "answer_is_correct": "False"
+        "answer_text": "Identifier des phonèmes",
+        "answer_is_correct": "True"
       },
       {
         "answer_id": "3",
-        "answer_text": "L'ATALA",
-        "answer_is_correct": "True"
-      }
-    ]
-  },
-  {
-    "question": "Pourquoi Bar-Hillel devient-il critique envers la TA dans les années 1960 ?",
-    "theme": "Histoire du TAL",
-    "answers": [
-      {
-        "answer_id": "1",
-        "answer_text": "À cause du manque de données",
+        "answer_text": "Segmenter un signal acoustique",
         "answer_is_correct": "False"
-      },
-      {
-        "answer_id": "2",
-        "answer_text": "À cause de l'impossibilité matérielle",
-        "answer_is_correct": "False"
-      },
-      {
-        "answer_id": "3",
-        "answer_text": "À cause d'un problème sémantique fondamental",
-        "answer_is_correct": "True"
       },
       {
         "answer_id": "4",
-        "answer_text": "À cause du coût des ordinateurs",
+        "answer_text": "Mesurer l’intensité d’un son",
         "answer_is_correct": "False"
       }
     ]
   },
   {
-    "question": "Quelle conséquence majeure a suivi le rapport ALPAC (1965) ?",
-    "theme": "Histoire du TAL",
+    "question": "La morphologie étudie :",
+    "theme": "Traitements linguistiques",
     "answers": [
       {
         "answer_id": "1",
-        "answer_text": "Une augmentation des financements",
+        "answer_text": "Les champs sémantiques",
         "answer_is_correct": "False"
       },
       {
         "answer_id": "2",
-        "answer_text": "Un arrêt des financements aux États-Unis",
-        "answer_is_correct": "True"
+        "answer_text": "Les actes de langage",
+        "answer_is_correct": "False"
       },
       {
         "answer_id": "3",
-        "answer_text": "La création de nouveaux langages",
+        "answer_text": "Les relations entre phrases",
         "answer_is_correct": "False"
       },
       {
         "answer_id": "4",
-        "answer_text": "La généralisation de la traduction automatique",
+        "answer_text": "Les morphèmes et leurs combinaisons",
+        "answer_is_correct": "True"
+      }
+    ]
+  },
+  {
+    "question": "Quel type de morphème appartient à une classe fermée ?",
+    "theme": "Traitements linguistiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Les noms",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Les verbes",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Les morphèmes grammaticaux",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Les morphèmes lexicaux",
         "answer_is_correct": "False"
       }
     ]
   },
   {
-    "question": "Quel système a marqué le réveil de la TA dans les années 1970–1980 ?",
-    "theme": "Histoire du TAL",
+    "question": "Quelle affirmation est correcte concernant la flexion ?",
+    "theme": "Traitements linguistiques",
     "answers": [
       {
         "answer_id": "1",
-        "answer_text": "ELIZA",
+        "answer_text": "Elle crée de nouvelles unités lexicales",
         "answer_is_correct": "False"
       },
       {
         "answer_id": "2",
-        "answer_text": "BASEBALL",
+        "answer_text": "Elle modifie la catégorie syntaxique",
         "answer_is_correct": "False"
       },
       {
         "answer_id": "3",
-        "answer_text": "TAUM-METEO",
+        "answer_text": "Elle exprime le genre, le nombre ou la conjugaison",
         "answer_is_correct": "True"
       },
       {
         "answer_id": "4",
-        "answer_text": "STUDENT",
+        "answer_text": "Elle précède toujours la dérivation",
         "answer_is_correct": "False"
       }
     ]
   },
   {
-    "question": "Quel système simule un psychiatre non directif en dialoguant avec un humain ?",
-    "theme": "Histoire du TAL",
+    "question": "En syntaxe, un syntagme est :",
+    "theme": "Traitements linguistiques",
     "answers": [
       {
         "answer_id": "1",
-        "answer_text": "SYSTRAN",
+        "answer_text": "Une relation sémantique",
         "answer_is_correct": "False"
       },
       {
         "answer_id": "2",
-        "answer_text": "TAUM-METEO",
+        "answer_text": "Une phrase complète",
         "answer_is_correct": "False"
       },
       {
         "answer_id": "3",
-        "answer_text": "SIR",
+        "answer_text": "Un mot",
         "answer_is_correct": "False"
       },
       {
         "answer_id": "4",
-        "answer_text": "ELIZA",
+        "answer_text": "Un groupe de mots organisé autour d’un noyau",
         "answer_is_correct": "True"
+      }
+    ]
+  },
+  {
+    "question": "Un sème est :",
+    "theme": "Traitements linguistiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Une unité syntaxique",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Une unité minimale de signification",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Un mot polysémique",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Un prototype conceptuel",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "La pragmatique se distingue de la sémantique car elle prend en compte :",
+    "theme": "Traitements linguistiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Le sens hors contexte",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Les règles grammaticales",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Le contexte et la situation de communication",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Les morphèmes flexionnels",
+        "answer_is_correct": "False"
       }
     ]
   }
