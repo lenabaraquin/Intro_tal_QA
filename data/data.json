@@ -1276,4 +1276,577 @@
       }
     ]
   }
+][
+  {
+    "question": "Les méthodes symboliques reposent principalement sur :",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "L’apprentissage automatique",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Des règles explicites écrites par des experts",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Des réseaux de neurones profonds",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Des corpus annotés massifs",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Quel est un principe fondamental des approches symboliques ?",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Raisonnement déterministe",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Raisonnement probabiliste",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Auto-supervision",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Apprentissage par renforcement",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Quel est un avantage majeur des méthodes symboliques ?",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Elles sont peu coûteuses en expertise humaine",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Elles sont interprétables et explicables",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Elles s’adaptent facilement aux usages nouveaux",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Elles gèrent bien l’ambiguïté",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Quel système edéveloppé dans les années 1970 comprenait le langage dans un monde restreint ?",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "SHRDLU",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "ELIZA",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "SYSTRAN",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "BASEBALL",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Pourquoi les automates finis sont-ils limités pour la syntaxe naturelle ?",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Ils sont trop lents",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Ils ne peuvent pas gérer la récursivité",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Ils ne produisent pas de structures arborescentesI",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Ils nécessitent des données annotées",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Une grammaire indépendante du contexte fonctionne par :",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Probabilités conditionnelles",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Réécriture récursive de symboles",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Apprentissage supervisé",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Attention globale",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Dans une règle terminale, les symboles terminaux sont :",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "GN, GV",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "S, P",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "le, chat",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "DET, N",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "La reconnaissance d’entités nommées symbolique utilise souvent :",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Des embeddings contextuels",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Des patrons linguistiques et des lexiques",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Des réseaux convolutifs",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Des modèles auto-régressifs",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Quelle hypothèse centrale fait le modèle Naïve Bayes ?",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Les mots sont dépendants",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Les mots sont indépendants",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "L’ordre des mots est essentiel",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Les phrases sont arborescentes",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Quel est un inconvénient majeur de Naïve Bayes ?",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Coût de calcul élevé",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Besoin de règles manuelles",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Non-prise en compte de l’ordre des mots",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Difficulté d’implémentation",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Les CRF se distinguent des HMM car ils :",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Sont non probabilistes",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Gèrent plusieurs caractéristiques simultanément",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Ne modélisent pas les séquences",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Sont non supervisés",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "L’apprentissage supervisé nécessite :",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Uniquement des données brutes",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Des données annotées",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Aucun jeu de test",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Aucun prétraitement",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Quel est un avantage de l’apprentissage non supervisé ?",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Excellente précision immédiate",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Faible coût d’annotation",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Résultats toujours interprétables",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Pas besoin de corpus",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Le clustering vise principalement à :",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Prédire une étiquette connue",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Générer du texte",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Regrouper des objets similaires",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Traduire automatiquement",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "L’apprentissage semi-supervisé est particulièrement utile lorsque :",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Les données sont entièrement annotées",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Les données sont inexistantes",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Les données annotées sont rares",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Les modèles sont symboliques",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Les RNN sont particulièrement adaptés au traitement :",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Parallèle",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Séquentiel",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Symbolique",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Statique",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Quel problème majeur des RNN a motivé l’apparition des transformers ?",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Trop difficiles à interpréter",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Difficulté avec les dépendances à longue distance",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Absence d’apprentissage",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Très coûteux en mémoire",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Le mécanisme central des transformers est :",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "La rétropropagation",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "L’attention (self-attention)",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "La récursivité",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "La dérivation syntaxique",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "BERT se distingue par :",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Une architecture unidirectionnelle",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Des embeddings statiques",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Une représentation bidirectionnelle du contexte",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Un apprentissage supervisé uniquement",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Quelle tâche fait partie du pré-entraînement de BERT ?",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Traduction automatique",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Classification de texte",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Modélisation du langage masqué",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Analyse syntaxique",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Le fine-tuning consiste à :",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Créer un modèle depuis zéro",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Réentraîner partiellement un modèle pré-entraîné",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Supprimer les paramètres appris",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Désactiver l’attention",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Le few-shot prompting consiste à :",
+    "theme": "Méthodes et approches",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Ne fournir aucune instruction",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Réentraîner le modèle",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Utiliser uniquement des règles",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Fournir quelques exemples dans le prompt",
+        "answer_is_correct": "True"
+      }
+    ]
+  }
 ]
