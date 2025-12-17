@@ -1,0 +1,392 @@
+[
+  {
+    "question": "Pourquoi est-il nécessaire de représenter les textes sous forme de vecteurs ?",
+    "theme": "Prétraitements informatiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Pour améliorer la grammaire des textes",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Pour réduire la taille des corpus",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Pour faciliter la traduction humaine",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Parce que les ordinateurs ne comprennent pas directement les mots",
+        "answer_is_correct": "True"
+      }
+    ]
+  },
+  {
+    "question": "Une représentation vectorielle d’un texte correspond à :",
+    "theme": "Prétraitements informatiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Une phrase réécrite automatiquement",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Une liste de règles syntaxiques",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Une liste de nombres résumant le contenu du texte",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Une suite de phonèmes",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Parmi les méthodes suivantes, laquelle est une représentation vectorielle classique ?",
+    "theme": "Prétraitements informatiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Analyse syntaxique",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Sac de mots (Bag of Words)",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Analyse pragmatique",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Reconnaissance d’entités nommées",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Le modèle Bag of Words se caractérise par :",
+    "theme": "Prétraitements informatiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "La prise en compte de l’ordre des mots",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "La prise en compte du sens des mots",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Le comptage des mots sans tenir compte de leur ordre",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "L’utilisation de réseaux de neurones",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Quelle est une limite majeure de Bag of Words ?",
+    "theme": "Prétraitements informatiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Il est lent à calculer",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Il nécessite un gros corpus",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Il perd l’ordre des mots",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Il ne peut pas être vectorisé",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Les n-grammes permettent :",
+    "theme": "Prétraitements informatiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "De supprimer les mots fréquents",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "De capturer une partie de l’ordre et du contexte local",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "De réduire la taille des vecteurs",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "De gérer la polysémie",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Quel est l’inconvénient principal des n-grammes lorsque n augmente ?",
+    "theme": "Prétraitements informatiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Explosion de la dimension des vecteurs",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Perte de sens",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Diminution du vocabulaire",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Surpondération des mots rares",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Quel est l’objectif principal du TF-IDF ?",
+    "theme": "Prétraitements informatiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Prendre en compte l’ordre des mots",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Donner plus de poids aux mots fréquents dans le corpus",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Réduire l’importance des mots très fréquents et peu informatifs",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Générer des embeddings denses",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Dans TF-IDF, l’IDF mesure :",
+    "theme": "Prétraitements informatiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "L’importance d’un mot dans l’ensemble des documents",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "La fréquence d’un mot dans un document",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Le nombre total de mots",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "La similarité entre deux mots",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Pourquoi les word embeddings ont-ils été introduits ?",
+    "theme": "Prétraitements informatiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Pour réduire le temps de calcul",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Pour représenter la grammaire",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Pour capturer la similarité sémantique entre les mots",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Pour compter les occurrences",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Les word embeddings reposent sur l’hypothèse :",
+    "theme": "Prétraitements informatiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Syntaxique",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Distributionnelle",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Phonologique",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Pragmatique",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Dans Word2Vec, le modèle CBOW consiste à :",
+    "theme": "Prétraitements informatiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Prédire le contexte à partir d’un mot",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Prédire un mot à partir de son contexte",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Calculer des cooccurrences globales",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Décomposer les mots en caractères",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Quel type de relation peut être capturé par Word2Vec ?",
+    "theme": "Prétraitements informatiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Relations phonétiques",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Relations syntaxiques et sémantiques",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Relations pragmatiques",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Relations discursives",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Quel est un inconvénient commun à Word2Vec et GloVe ?",
+    "theme": "Prétraitements informatiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Vecteurs trop longs",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Incapacité à gérer les mots fréquents",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Un seul vecteur par mot (pas de gestion de la polysémie)",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Temps d’entraînement trop court",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Quel modèle permet de représenter les mots inconnus grâce aux n-grammes ?",
+    "theme": "Prétraitements informatiques",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "TF-IDF",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Word2Vec",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "GloVe",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "FastText",
+        "answer_is_correct": "True"
+      }
+    ]
+  }
+]
