@@ -1,0 +1,101 @@
+[
+  {
+    "question": "L’évaluation d’un système de TAL nécessite obligatoirement :",
+    "theme": "Évaluation",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Un très grand corpus non annoté",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Un corpus de référence produit par des humains",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Un modèle pré-entraîné",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "L’objectif principal de l’évaluation est de mesurer :",
+    "theme": "Évaluation",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "La vitesse d’exécution du système",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "La proximité entre le résultat automatique et la référence",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "La complexité du modèle",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "La taille du vocabulaire",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "L’exactitude (accuracy) correspond à :",
+    "theme": "Évaluation",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "La proportion de décisions correctes parmi toutes les décisions",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "La proportion de vrais positifs",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "La moyenne de la précision et du rappel",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "La proportion de faux négatifs",
+        "answer_is_correct": "False"
+      }
+    ]
+  },
+  {
+    "question": "Dans une évaluation binaire, un vrai positif correspond à :",
+    "theme": "Évaluation",
+    "answers": [
+      {
+        "answer_id": "1",
+        "answer_text": "Un élément absent de la référence mais présent dans l’hypothèse",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "2",
+        "answer_text": "Un élément présent dans la référence et dans l’hypothèse",
+        "answer_is_correct": "True"
+      },
+      {
+        "answer_id": "3",
+        "answer_text": "Un élément absent dans les deux",
+        "answer_is_correct": "False"
+      },
+      {
+        "answer_id": "4",
+        "answer_text": "Un élément présent dans la référence mais absent de l’hypothèse",
+        "answer_is_correct": "False"
+      }
+    ]
+  }
+]
