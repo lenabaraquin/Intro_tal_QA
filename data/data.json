@@ -883,9 +883,7 @@
         "answer_is_correct": "False"
       }
     ]
-  }
-]
-[
+  },
   {
     "question": "Pourquoi est-il nécessaire de représenter les textes sous forme de vecteurs ?",
     "theme": "Prétraitements informatiques",
